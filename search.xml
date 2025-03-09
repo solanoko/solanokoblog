@@ -4,26 +4,38 @@
   
     
     <entry>
-      <title>开始文章</title>
-      <link href="/solanokoblog/2025/01/21/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
-      <url>/solanokoblog/2025/01/21/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
+      <title>leetcode</title>
+      <link href="/solanokoblog/2025/03/02/%E7%AE%97%E6%B3%95/"/>
+      <url>/solanokoblog/2025/03/02/%E7%AE%97%E6%B3%95/</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<blockquote><p>算法我觉得是非常适合计算机新手快速的去熟练掌握一门计算机语言的最好途径，虽然算法很卷很卷，但是并不妨碍它和数学一样，是一个特别有趣味性学科，从我大一入学开始基本上每天至少一题（现在懒了），有时候一道问题可以想几天，也许这样不断提升自己，挑战一个又一个不可能，最后完成这些问题所带来的成就感才是算法本身的乐趣吧</p></blockquote><img src="C:\Users\lyq04\AppData\Roaming\Typora\typora-user-images\image-20250302152840606.png" alt="image-20250302152840606" style="zoom: 80%;" /><img src="C:\Users\lyq04\AppData\Roaming\Typora\typora-user-images\image-20250302153034115.png" alt="image-20250302153034115" style="zoom:67%;" /><p>算法比较方便就业，但对于一个程序员来说基本是一个不可或缺的技能，那对于一个小白来说怎么启动呢？我这边推荐leetcode平台。</p><img src="C:\Users\lyq04\AppData\Roaming\Typora\typora-user-images\image-20250302153220482.png" alt="image-20250302153220482" style="zoom: 25%;" /><p>leetcode平台注重基础以及面试性算法题，算法问题简单粗暴但是有用，同时在每周六较为阳间的时间(晚上10：30)有一场算法竞赛，能于来自大千世界的大能们同台pk,而且比赛题目相对简单,对自身学习初期阶段提升大,比起codeforce打到凌晨2点的比赛来说，这种时间安排已经非常人性化了(之前打了一年的codeforce，作者白天基本上就是被榨干了的状态)，而且它和牛客一样可以观察计算机厂的招募信息，是了解就业的不二选择。leetcode的提交以及题目是我比较喜欢的类型，与其他的算法训练平台不同，它是以return作为提交手段</p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">def</span> <span class="title function_">dfs</span>(<span class="params">i:<span class="built_in">int</span></span>) -&gt; <span class="built_in">bool</span>:</span><br><span class="line"><span class="keyword">return</span> true</span><br></pre></td></tr></table></figure><p>入门推荐跟着灵神的题单去刷，可以下载油猴插件对题单中有无做过的题目进行一个总结</p><img src="C:\Users\lyq04\AppData\Roaming\Typora\typora-user-images\image-20250302155042721.png" alt="image-20250302155042721" style="zoom: 50%;" />]]></content>
       
       
+      
+        <tags>
+            
+            <tag> 算法 </tag>
+            
+        </tags>
       
     </entry>
     
     
     
     <entry>
-      <title>Hello World</title>
-      <link href="/solanokoblog/2025/01/21/hello-world/"/>
-      <url>/solanokoblog/2025/01/21/hello-world/</url>
+      <title>引言</title>
+      <link href="/solanokoblog/2025/01/21/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+      <url>/solanokoblog/2025/01/21/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
       
-        <content type="html"><![CDATA[<p>is created by li yan qing</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+        <content type="html"><![CDATA[<p>这个博客属于一个个人的小网站，本人打算把它当作一个日记本来写。作者是个小菜鸡，但是打算做全栈开发，目前学习了一众技术栈，往后的日子作者将会将自己的技术栈以及项目记录在此网站上，例如markdown，hexo，linux，前端，爬虫，后端（主要以python的flask框架为主），网络安全，python的相关库与技术，人工智能等等</p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">print</span>(<span class="string">&quot;hello world&quot;</span>)</span><br></pre></td></tr></table></figure><p>那么让我们开始学习吧</p><img src="C:\Users\lyq04\AppData\Roaming\Typora\typora-user-images\image-20250227205024946.png" alt="image-20250227205024946" style="zoom:50%;" /><img src="C:\Users\lyq04\AppData\Roaming\Typora\typora-user-images\image-20250227205152546.png" alt="image-20250227205152546" style="zoom:50%;" />]]></content>
       
       
+      
+        <tags>
+            
+            <tag> 技术栈 </tag>
+            
+        </tags>
       
     </entry>
     
